@@ -1,10 +1,10 @@
 # The-Data-And-AI-Developers-project
 An advanced AI recruitment engine using dual-model semantic scoring (retrieval + reranking) to evaluate candidates. It mathematically blends contextual fit with tiered skill density, seniority signals, and log-scaled experience. Built for production, it features Explainable AI (XAI) to provide clear, deterministic reasoning for all rankings.
 
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║          ADVANCED CANDIDATE DISCOVERY ENGINE v2.0                ║
-# ║  Multi-Factor AI Recruitment with Explainability & Calibration   ║
-# ╚══════════════════════════════════════════════════════════════════╝
+
+#           ADVANCED CANDIDATE DISCOVERY ENGINE v2.0                
+#   Multi-Factor AI Recruitment with Explainability & Calibration   
+
 
 ## 🎯 Project Overview
 An advanced AI recruitment engine using dual-model semantic scoring (retrieval + precision reranking) to evaluate candidates. It mathematically blends contextual fit with tiered skill density, seniority signals, and log-scaled experience. Built for enterprise production scale, it features Explainable AI (XAI) to provide clear, deterministic reasoning for all candidate rankings.
